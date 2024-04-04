@@ -1,3 +1,4 @@
 12343567
 changes made in branch newbranch
+the content of this file is now different.
 Some new lines of code
